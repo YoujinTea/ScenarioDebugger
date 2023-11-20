@@ -195,3 +195,4 @@ while True:
     # nが入力されたらループを抜ける
     if is_continue == 'n':
         break
+
